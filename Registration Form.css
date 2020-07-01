@@ -1,0 +1,32 @@
+ #a1{
+			background-color:Gray;
+			height:75%;
+			width:60%;
+			border:solid 4px blue;
+			margin-left:15%;
+			}
+			
+			header{
+			border:solid 4px blue;
+			margin-left:15%;
+			height:15%;
+			width:60%;
+			margin-left:15%;
+			background-color:gray;
+			}
+			
+			h1{
+				font-family:verdana;
+				align:center;
+				color:black;
+				
+			}
+           
+		   hr{
+		   
+		   width:60%;
+		   margin-left:200px; 
+		   
+		   }
+		 
+   
